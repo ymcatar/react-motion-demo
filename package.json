@@ -17,6 +17,7 @@
     "react": "^15.1.0",
     "react-dom": "^15.1.0",
     "react-motion": "^0.4.4",
+    "react-router": "^2.5.2",
     "webpack": "^1.13.1"
   },
   "scripts": {
